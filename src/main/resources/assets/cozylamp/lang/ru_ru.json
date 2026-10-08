@@ -1,0 +1,6 @@
+{
+  "block.cozylamp.desk_lamp": "Настольная лампа",
+  "itemGroup.cozylamp.main": "Уютная лампа",
+  "subtitles.cozylamp.lamp_click": "Щелчок лампы",
+  "message.cozylamp.brightness": "Яркость: %s"
+}

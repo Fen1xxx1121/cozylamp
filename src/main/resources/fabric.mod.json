@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "cozylamp",
+  "version": "${version}",
+  "name": "Cozy Lamp",
+  "description": "Тёплая настольная лампа для уютных интерьеров: три уровня яркости, редстоун, пылинки в свете.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.cozylamp.CozyLamp"] },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

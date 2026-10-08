@@ -1,0 +1,13 @@
+{
+  "lamp_click": {
+    "subtitle": "subtitles.cozylamp.lamp_click",
+    "sounds": [
+      {
+        "name": "minecraft:block.lever.click",
+        "type": "event",
+        "pitch": 1.5,
+        "volume": 0.7
+      }
+    ]
+  }
+}

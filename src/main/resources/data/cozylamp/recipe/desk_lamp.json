@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "W",
+    "T",
+    "C"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:yellow_wool"
+    },
+    "T": {
+      "item": "minecraft:torch"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "id": "cozylamp:desk_lamp",
+    "count": 1
+  }
+}

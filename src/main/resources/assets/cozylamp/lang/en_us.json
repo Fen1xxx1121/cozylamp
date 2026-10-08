@@ -1,0 +1,6 @@
+{
+  "block.cozylamp.desk_lamp": "Desk Lamp",
+  "itemGroup.cozylamp.main": "Cozy Lamp",
+  "subtitles.cozylamp.lamp_click": "Lamp clicks",
+  "message.cozylamp.brightness": "Brightness: %s"
+}
